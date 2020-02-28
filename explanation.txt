@@ -1,0 +1,1 @@
+I choose Radix sort because it's runtime is faster than mergesort and quick sort. Compare to counting sort, counting sort works better if the range of the array is very small in an array. Therefore Radix sort is a better choice.
